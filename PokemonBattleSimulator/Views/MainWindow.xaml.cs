@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using PokemonBattleSimulator.ViewModels;
 
 namespace PokemonBattleSimulator
 {
@@ -19,6 +20,9 @@ namespace PokemonBattleSimulator
         public MainWindow()
         {
             InitializeComponent();
+            // Initialize the view model and bind it to the view
+            MainViewModel viewModel = new MainViewModel();
+            this.DataContext = viewModel;
         }
     }
 }

@@ -10,12 +10,9 @@
 
   <ItemGroup>
     <Folder Include="Resources\Data\" />
-    <Folder Include="Resources\UI\Images\" />
-    <Folder Include="Resources\UI\" />
-    <Folder Include="Resources\UI\Sounds\" />
     <Folder Include="Resources\UI\Animations\" />
-    <Folder Include="ViewModels\" />
-    <Folder Include="Views\" />
+    <Folder Include="Resources\UI\Images\" />
+    <Folder Include="Resources\UI\Sounds\" />
   </ItemGroup>
 
 </Project>
