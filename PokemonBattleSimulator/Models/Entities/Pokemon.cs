@@ -12,6 +12,7 @@ namespace PokemonBattleSimulator.Models.Entities
         private PokemonSpecies _species;
         private Gender _gender;
         private int _level;
+        private int _currentHP;
         private PokemonStats _stats;
         private MoveSet _moveSet;
         private StatusConditionSet _statusConditions;
@@ -53,6 +54,19 @@ namespace PokemonBattleSimulator.Models.Entities
                     throw new ArgumentOutOfRangeException("Level must be greater than 0.");
                 }
                 _level = value;
+            }
+        }
+
+        public int CurrentHP
+        {
+            get { return _currentHP; }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentOutOfRangeException("Current HP cannot be negative.");
+                }
+                _currentHP = value;
             }
         }
 
@@ -113,6 +127,7 @@ namespace PokemonBattleSimulator.Models.Entities
             Species = species;
             Gender = gender;
             Level = level;
+            CurrentHP = stats.HP;
             Stats = stats;
             MoveSet = moveSet;
             StatusConditions = new StatusConditionSet();

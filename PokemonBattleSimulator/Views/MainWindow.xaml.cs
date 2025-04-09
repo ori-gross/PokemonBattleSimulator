@@ -20,7 +20,6 @@ namespace PokemonBattleSimulator
         public MainWindow()
         {
             InitializeComponent();
-            // Initialize the view model and bind it to the view
             MainViewModel viewModel = new MainViewModel();
             this.DataContext = viewModel;
         }

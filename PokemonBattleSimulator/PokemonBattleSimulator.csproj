@@ -11,8 +11,13 @@
   <ItemGroup>
     <Folder Include="Resources\Data\" />
     <Folder Include="Resources\UI\Animations\" />
-    <Folder Include="Resources\UI\Images\" />
     <Folder Include="Resources\UI\Sounds\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\UI\Images\AppIcon.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>
