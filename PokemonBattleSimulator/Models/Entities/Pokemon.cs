@@ -17,6 +17,7 @@ namespace PokemonBattleSimulator.Models.Entities
         private MoveSet _moveSet;
         private StatusConditionSet _statusConditions;
         private StatModifiers _statModifiers;
+        private PokemonSpriteSet _sprites;
 
         public PokemonSpecies Species
         {
@@ -122,7 +123,20 @@ namespace PokemonBattleSimulator.Models.Entities
             }
         }
 
-        public Pokemon(PokemonSpecies species, Gender gender, int level, PokemonStats stats, MoveSet moveSet)
+        public PokemonSpriteSet Sprites
+        {
+            get { return _sprites; }
+            set
+            {
+                if (value == null)
+                {
+                    throw new ArgumentNullException("Sprites cannot be null.");
+                }
+                _sprites = value;
+            }
+        }
+
+        public Pokemon(PokemonSpecies species, Gender gender, int level, PokemonStats stats, MoveSet moveSet, PokemonSpriteSet sprites)
         {
             Species = species;
             Gender = gender;
@@ -132,6 +146,7 @@ namespace PokemonBattleSimulator.Models.Entities
             MoveSet = moveSet;
             StatusConditions = new StatusConditionSet();
             StatModifiers = new StatModifiers();
+            Sprites = sprites;
         }
     }
 }

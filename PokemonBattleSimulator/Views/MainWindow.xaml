@@ -8,6 +8,14 @@
         Title="Pokemon Battle Simulator" Icon="pack://application:,,,/Resources/UI/Images/AppIcon.ico" Height="450" Width="800"
         WindowStartupLocation="CenterScreen">
     <Grid>
+        <MediaElement x:Name="BackgroundMusic"
+                      Source="Resources/UI/Sounds/Title.mp3"
+                      LoadedBehavior="Play"
+                      UnloadedBehavior="Manual"
+                      Volume="0.5"
+                      MediaEnded="BackgroundMusic_MediaEnded"
+                      Visibility="Collapsed" />
+        
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
 
             <TextBlock Text="Pokémon Battle Simulator" 

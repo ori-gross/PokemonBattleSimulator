@@ -15,6 +15,7 @@ namespace PokemonBattleSimulator.Models.Entities
         private PokemonType _type2;
         private PokemonStats _baseStats;
         private LearnableMoveSet _learnableMoves;
+        private PokemonSpriteSet _sprites;
 
         public string Name
         {
@@ -94,7 +95,20 @@ namespace PokemonBattleSimulator.Models.Entities
             }
         }
 
-        public PokemonSpecies(string name, int pokedexNumber, PokemonType type1, PokemonType type2, PokemonStats baseStats, LearnableMoveSet learnableMoves)
+        public PokemonSpriteSet Sprites
+        {
+            get { return _sprites; }
+            set
+            {
+                if (value == null)
+                {
+                    throw new ArgumentNullException(nameof(value), "Sprites cannot be null.");
+                }
+                _sprites = value;
+            }
+        }
+
+        public PokemonSpecies(string name, int pokedexNumber, PokemonType type1, PokemonType type2, PokemonStats baseStats, LearnableMoveSet learnableMoves, PokemonSpriteSet sprites)
         {
             Name = name;
             PokedexNumber = pokedexNumber;
@@ -102,6 +116,7 @@ namespace PokemonBattleSimulator.Models.Entities
             Type2 = type2;
             BaseStats = baseStats;
             LearnableMoves = learnableMoves;
+            Sprites = sprites;
         }
     }
 }
