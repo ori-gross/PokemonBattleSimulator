@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Tackle",
+        "Type": "Normal",
+        "Category": "Physical",
+        "Power": 40,
+        "Accuracy": 100,
+        "PP": 35
+    },
+    {
+        "Name": "Growl",
+        "Type": "Normal",
+        "Category": "Status",
+        "Power": 0,
+        "Accuracy": 100,
+        "PP": 40
+    },
+    {
+        "Name": "ThunderShock",
+        "Type": "Electric",
+        "Category": "Special",
+        "Power": 40,
+        "Accuracy": 100,
+        "PP": 30
+    }
+]

@@ -10,6 +10,7 @@ namespace PokemonBattleSimulator.Models.Entities
     {
         private string _name;
         private string _description;
+        private string _itemImagePath;
 
         public string Name
         {
@@ -37,10 +38,24 @@ namespace PokemonBattleSimulator.Models.Entities
             }
         }
 
-        public Item(string name, string description)
+        public string ItemImagePath
+        {
+            get { return _itemImagePath; }
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException("Item image path cannot be null or empty.");
+                }
+                _itemImagePath = value;
+            }
+        }
+
+        public Item(string name, string description, string itemImagePath)
         {
             Name = name;
             Description = description;
+            ItemImagePath = itemImagePath;
         }
     }
 }

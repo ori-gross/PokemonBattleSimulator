@@ -9,10 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Resources\UI\Sounds\Title.mp3" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Resources\Data\" />
     <Folder Include="Resources\UI\Animations\" />
   </ItemGroup>
@@ -21,7 +17,7 @@
     <Resource Include="Resources\UI\Images\AppIcon.ico">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
-    <Content Include="Resources\UI\Sounds\Title.mp3">
+    <Content Include="Resources\UI\Sounds\MainTheme.mp3">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
