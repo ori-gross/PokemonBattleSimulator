@@ -2,86 +2,86 @@
     {
         "Name": "Potion",
         "Description": "Restores 20 HP.",
-        "ItemImagePath": "Resources/UI/Images/Items/POTION.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/POTION.png"
     },
     {
         "Name": "Super Potion",
         "Description": "Restores 60 HP.",
-        "ItemImagePath": "Resources/UI/Images/Items/SUPERPOTION.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/SUPERPOTION.png"
     },
     {
         "Name": "Hyper Potion",
         "Description": "Restores 120 HP.",
-        "ItemImagePath": "Resources/UI/Images/Items/HYPERPOTION.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/HYPERPOTION.png"
     },
     {
         "Name": "Max Potion",
         "Description": "Fully restores HP.",
-        "ItemImagePath": "Resources/UI/Images/Items/MAXPOTION.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/MAXPOTION.png"
     },
     {
         "Name": "Antidote",
         "Description": "Cures a Pok?mon of poisoning.",
-        "ItemImagePath": "Resources/UI/Images/Items/ANTIDOTE.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/ANTIDOTE.png"
     },
     {
         "Name": "Awakening",
         "Description": "Wakes up a sleeping Pok?mon.",
-        "ItemImagePath": "Resources/UI/Images/Items/AWAKENING.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/AWAKENING.png"
     },
     {
         "Name": "Burn Heal",
         "Description": "Cures a Pok?mon of a burn.",
-        "ItemImagePath": "Resources/UI/Images/Items/BURNHEAL.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/BURNHEAL.png"
     },
     {
         "Name": "Ice Heal",
         "Description": "Cures a Pok?mon of freezing.",
-        "ItemImagePath": "Resources/UI/Images/Items/ICEHEAL.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/ICEHEAL.png"
     },
     {
         "Name": "Paralyze Heal",
         "Description": "Cures a Pok?mon of paralysis.",
-        "ItemImagePath": "Resources/UI/Images/Items/PARALYZEHEAL.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/PARALYZEHEAL.png"
     },
     {
         "Name": "Full Heal",
         "Description": "Cures all status conditions.",
-        "ItemImagePath": "Resources/UI/Images/Items/FULLHEAL.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/FULLHEAL.png"
     },
     {
         "Name": "Full Restore",
         "Description": "Fully restores HP and cures any status condition of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Images/Items/FULLRESTORE.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/FULLRESTORE.png"
     },
     {
         "Name": "Revive",
         "Description": "Revives a fainted Pok?mon, restoring half its HP.",
-        "ItemImagePath": "Resources/UI/Images/Items/REVIVE.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/REVIVE.png"
     },
     {
         "Name": "Max Revive",
         "Description": "Revives a fainted Pok?mon, fully restoring its HP.",
-        "ItemImagePath": "Resources/UI/Images/Items/MAXREVIVE.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/MAXREVIVE.png"
     },
     {
         "Name": "Ether",
         "Description": "Restores 10 PP to one move of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Images/Items/ETHER.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/ETHER.png"
     },
     {
         "Name": "Max Ether",
         "Description": "Fully restores PP to one move of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Images/Items/MAXETHER.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/MAXETHER.png"
     },
     {
         "Name": "Elixir",
         "Description": "Restores 10 PP to all moves of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Images/Items/ELIXIR.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/ELIXIR.png"
     },
     {
         "Name": "Max Elixir",
         "Description": "Fully restores PP to all moves of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Images/Items/MAXELIXIR.png"
+        "ItemImagePath": "Resources/UI/Graphics/Items/MAXELIXIR.png"
     }
 ]

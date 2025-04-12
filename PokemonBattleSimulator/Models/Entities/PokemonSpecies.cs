@@ -9,26 +9,13 @@ namespace PokemonBattleSimulator.Models.Entities
 {
     public class PokemonSpecies
     {
-        private string _name;
         private int _pokedexNumber;
+        private string _name;
         private PokemonType _type1;
         private PokemonType _type2;
         private PokemonStats _baseStats;
         private LearnableMoveSet _learnableMoves;
         private PokemonSpriteSet _sprites;
-
-        public string Name
-        {
-            get { return _name; }
-            set
-            {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentException("Name cannot be null or empty.");
-                }
-                _name = value;
-            }
-        }
 
         public int PokedexNumber
         {
@@ -40,6 +27,19 @@ namespace PokemonBattleSimulator.Models.Entities
                     throw new ArgumentOutOfRangeException(nameof(value), "Pokedex number must be greater than zero.");
                 }
                 _pokedexNumber = value;
+            }
+        }
+
+        public string Name
+        {
+            get { return _name; }
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException("Name cannot be null or empty.");
+                }
+                _name = value;
             }
         }
 
@@ -108,10 +108,10 @@ namespace PokemonBattleSimulator.Models.Entities
             }
         }
 
-        public PokemonSpecies(string name, int pokedexNumber, PokemonType type1, PokemonType type2, PokemonStats baseStats, LearnableMoveSet learnableMoves, PokemonSpriteSet sprites)
+        public PokemonSpecies(int pokedexNumber, string name, PokemonType type1, PokemonType type2, PokemonStats baseStats, LearnableMoveSet learnableMoves, PokemonSpriteSet sprites)
         {
-            Name = name;
             PokedexNumber = pokedexNumber;
+            Name = name;
             Type1 = type1;
             Type2 = type2;
             BaseStats = baseStats;

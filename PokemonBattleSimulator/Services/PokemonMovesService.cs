@@ -9,7 +9,7 @@ using PokemonBattleSimulator.Models.Entities;
 
 namespace PokemonBattleSimulator.Services
 {
-    public class PokemonMovesService
+    public static class PokemonMovesService
     {
         public static List<PokemonMove> LoadPokemonMoves(string jsonFilePath)
         {

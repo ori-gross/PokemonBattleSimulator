@@ -8,10 +8,10 @@ namespace PokemonBattleSimulator.Models.Entities
 {
     public class LearnableMove
     {
-        private PokemonMove _move;
+        private string _move;
         private int _level;
 
-        public PokemonMove Move
+        public string Move
         {
             get { return _move; }
             set
@@ -37,7 +37,7 @@ namespace PokemonBattleSimulator.Models.Entities
             }
         }
 
-        public LearnableMove(PokemonMove move, int level)
+        public LearnableMove(string move, int level)
         {
             Move = move;
             Level = level;

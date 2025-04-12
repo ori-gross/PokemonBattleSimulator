@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PokemonBattleSimulator"
         mc:Ignorable="d"
-        Title="Pokemon Battle Simulator" Icon="pack://application:,,,/Resources/UI/Images/AppIcon.ico" Height="450" Width="800"
+        Title="Pokemon Battle Simulator" Icon="pack://application:,,,/Resources/UI/Graphics/AppIcon.ico" Height="450" Width="800"
         WindowStartupLocation="CenterScreen">
     <Grid>
         <MediaElement x:Name="BackgroundMusic"

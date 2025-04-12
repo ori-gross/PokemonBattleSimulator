@@ -9,13 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Tools\" />
+    <Compile Remove="Resources\UI\Images\**" />
+    <EmbeddedResource Remove="Resources\UI\Images\**" />
+    <None Remove="Resources\UI\Images\**" />
+    <Page Remove="Resources\UI\Images\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Resources\UI\Images\AppIcon.ico">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Resource>
     <Content Include="Resources\UI\Audio\MainTheme.mp3">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

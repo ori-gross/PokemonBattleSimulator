@@ -9,7 +9,25 @@ using PokemonBattleSimulator.Models.Entities;
 
 namespace PokemonBattleSimulator.Services
 {
-    public class PokemonSpeciesService
-    {      
+    public static class PokemonSpeciesService
+    {
+        public static List<PokemonSpecies> LoadSpecies(string jsonFilePath)
+        {
+            try
+            {
+                string json = File.ReadAllText(jsonFilePath);
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                };
+
+                return JsonSerializer.Deserialize<List<PokemonSpecies>>(json, options);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error loading Pokémon species: {ex.Message}");
+                return new List<PokemonSpecies>();
+            }
+        }
     }
 }
