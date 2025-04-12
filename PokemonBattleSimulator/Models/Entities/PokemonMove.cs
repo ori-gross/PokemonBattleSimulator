@@ -13,8 +13,9 @@ namespace PokemonBattleSimulator.Models.Entities
         private PokemonType _type;
         private MoveCategory _category;
         private int _power;
-        private int _accuracy;
+        private int? _accuracy; // null means "always hits"
         private int _pp;
+        private string _description;
 
         public string Name
         {
@@ -68,14 +69,14 @@ namespace PokemonBattleSimulator.Models.Entities
             }
         }
 
-        public int Accuracy
+        public int? Accuracy
         {
             get { return _accuracy; }
             set
             {
-                if (value < 0 || value > 100)
+                if (value != null && (value < 0 || value > 100))
                 {
-                    throw new ArgumentOutOfRangeException("Accuracy must be between 0 and 100.");
+                    throw new ArgumentOutOfRangeException("Accuracy must be between 0 and 100, or null for always hits.");
                 }
                 _accuracy = value;
             }
@@ -94,7 +95,20 @@ namespace PokemonBattleSimulator.Models.Entities
             }
         }
 
-        public PokemonMove(string name, PokemonType type, MoveCategory category, int power, int accuracy, int pp)
+        public string Description
+        {
+            get { return _description; }
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException("Description cannot be null or empty.");
+                }
+                _description = value;
+            }
+        }
+
+        public PokemonMove(string name, PokemonType type, MoveCategory category, int power, int accuracy, int pp, string description)
         {
             Name = name;
             Type = type;
@@ -102,6 +116,7 @@ namespace PokemonBattleSimulator.Models.Entities
             Power = power;
             Accuracy = accuracy;
             PP = pp;
+            Description = description;
         }
     }
 }

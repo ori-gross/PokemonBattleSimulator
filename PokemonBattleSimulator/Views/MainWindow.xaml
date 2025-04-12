@@ -9,7 +9,7 @@
         WindowStartupLocation="CenterScreen">
     <Grid>
         <MediaElement x:Name="BackgroundMusic"
-                      Source="Resources/UI/Sounds/MainTheme.mp3"
+                      Source="Resources/UI/Audio/MainTheme.mp3"
                       LoadedBehavior="Play"
                       UnloadedBehavior="Manual"
                       Volume="0.5"

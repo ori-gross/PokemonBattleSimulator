@@ -9,15 +9,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Resources\Data\" />
-    <Folder Include="Resources\UI\Animations\" />
+    <Folder Include="Tools\" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Resources\UI\Images\AppIcon.ico">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
-    <Content Include="Resources\UI\Sounds\MainTheme.mp3">
+    <Content Include="Resources\UI\Audio\MainTheme.mp3">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
