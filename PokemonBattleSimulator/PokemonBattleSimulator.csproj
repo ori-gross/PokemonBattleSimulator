@@ -16,9 +16,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Resources\UI\Graphics\AppIcon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="Resources\UI\Audio\MainTheme.mp3">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\UI\Graphics\AppIcon.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>

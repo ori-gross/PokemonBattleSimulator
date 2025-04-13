@@ -17,15 +17,11 @@ namespace PokemonBattleSimulator
     /// </summary>
     public partial class MainWindow : Window
     {
-        private MediaPlayer _backgroundMusic = new MediaPlayer();
-
         public MainWindow()
         {
             InitializeComponent();
             MainViewModel viewModel = new MainViewModel();
             this.DataContext = viewModel;
-
-            //PlayBackgroundMusic();
         }
 
         private void BackgroundMusic_MediaEnded(object sender, RoutedEventArgs e)
@@ -33,5 +29,7 @@ namespace PokemonBattleSimulator
             BackgroundMusic.Position = TimeSpan.Zero;
             BackgroundMusic.Play();
         }
+
+        public MediaElement MusicElement => BackgroundMusic;
     }
 }
