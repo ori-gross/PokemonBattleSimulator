@@ -16,10 +16,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Resources\Data\PokemonSpecies.json" />
     <None Remove="Resources\UI\Graphics\AppIcon.ico" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Resources\Data\PokemonSpecies.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\UI\Audio\MainTheme.mp3">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

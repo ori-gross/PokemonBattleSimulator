@@ -51,7 +51,7 @@ def extract_learnable_moves(pokemon_name):
 
     if not move_table:
         print(f"Could not find level-up move table for {pokemon_name}")
-        return []
+        return { "LearnableMoves": [] }
 
     moves = []
     for row in move_table.find("tbody").find_all("tr"):
@@ -68,7 +68,7 @@ def extract_learnable_moves(pokemon_name):
             print(f"Skipping a row for {pokemon_name}: {e}")
             continue
 
-    return moves
+    return { "LearnableMoves": moves }
 
     table = move_table.find_next("table")
     moves = []

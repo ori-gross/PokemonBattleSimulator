@@ -6,8 +6,15 @@
         xmlns:local="clr-namespace:PokemonBattleSimulator"
         mc:Ignorable="d"
         Title="Pokemon Battle Simulator" Icon="pack://application:,,,/Resources/UI/Graphics/AppIcon.ico" Height="450" Width="800"
-        WindowState="Maximized" WindowStartupLocation="CenterScreen">
+        WindowState="Normal" WindowStartupLocation="CenterScreen">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <!-- Sidebar -->
+            <ColumnDefinition Width="150"/>
+            <!-- Main content -->
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
         <MediaElement x:Name="BackgroundMusic"
                       Source="Resources/UI/Audio/MainTheme.mp3"
                       LoadedBehavior="Play"
@@ -15,30 +22,40 @@
                       Volume="0.5"
                       MediaEnded="BackgroundMusic_MediaEnded"
                       Visibility="Collapsed" />
-        
-        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
 
-            <TextBlock Text="Pokémon Battle Simulator" 
-                       FontSize="28" 
-                       FontWeight="Bold"
-                       Margin="0 0 0 20"
-                       HorizontalAlignment="Center"/>
-
-            <Button Content="Start Battle" Width="200" Height="40" Command="{Binding OpenBattleWindowCommand}"
-                    Cursor="Hand" ToolTip="Start Battle"/>
-            <Button Content="Trainer Setup" Width="200" Height="40" Command="{Binding OpenTrainerSetupWindowCommand}"
-                    Cursor="Hand" ToolTip="Trainer Setup"/>
-            <Button Content="About" Width="200" Height="40" Command="{Binding OpenAboutWindowCommand}"
-                    Cursor="Hand" ToolTip="About"/>
-
-            <TextBlock Text="Volume:" VerticalAlignment="Center" Margin="0,0,5,0"/>
-            <Slider Width="150"
-            Minimum="0"
-            Maximum="1"
-            SmallChange="0.01"
-            LargeChange="0.1"
-            Value="{Binding Volume, Mode=TwoWay}"/>
-            <Button Content="{Binding MuteButtonText}" Command="{Binding ToggleMuteCommand}" Margin="10,0,0,0"/>
+        <!-- Sidebar -->
+        <StackPanel Grid.Column="0" Background="DarkRed">
+            <TextBlock Text="📚 Databases" FontWeight="Bold" FontSize="16" Margin="0 0 0 10"/>
+            <Button Content="Pokédex" Background="Transparent" Command="{Binding OpenPokedexWindowCommand}" Cursor="Hand"/>
+            <Button Content="Movedex" Background="Transparent" Command="" Cursor="Hand"/>
+            <Button Content="Itemdex" Background="Transparent" Command="" Cursor="Hand"/>
         </StackPanel>
+
+        <!-- Main area -->
+        <Grid Grid.Column="1" Background="SlateGray">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Pokémon Battle Simulator" 
+                           FontSize="28" 
+                           FontWeight="Bold"
+                           Margin="0 0 0 20"
+                           HorizontalAlignment="Center"/>
+
+                <Button Content="Start Battle" Width="200" Height="40" Command="{Binding OpenBattleWindowCommand}"
+                        Cursor="Hand" ToolTip="Start Battle"/>
+                <Button Content="Trainer Setup" Width="200" Height="40" Command="{Binding OpenTrainerSetupWindowCommand}"
+                        Cursor="Hand" ToolTip="Trainer Setup"/>
+                <Button Content="About" Width="200" Height="40" Command="{Binding OpenAboutWindowCommand}"
+                        Cursor="Hand" ToolTip="About"/>
+
+                <TextBlock Text="Volume:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <Slider Width="150"
+                Minimum="0"
+                Maximum="1"
+                SmallChange="0.01"
+                LargeChange="0.1"
+                Value="{Binding Volume, Mode=TwoWay}"/>
+                <Button Content="{Binding MuteButtonText}" Command="{Binding ToggleMuteCommand}" Margin="10,0,0,0"/>
+            </StackPanel>
+        </Grid>
     </Grid>
 </Window>

@@ -46,6 +46,7 @@ namespace PokemonBattleSimulator.ViewModels
         public ICommand OpenBattleWindowCommand { get; set; }
         public ICommand OpenTrainerSetupWindowCommand { get; set; }
         public ICommand OpenAboutWindowCommand { get; set; }
+        public ICommand OpenPokedexWindowCommand { get; set; }
 
         public ICommand ToggleMuteCommand { get; }
 
@@ -54,6 +55,7 @@ namespace PokemonBattleSimulator.ViewModels
             OpenBattleWindowCommand = new RelayCommand(OpenBattleWindow);
             OpenTrainerSetupWindowCommand = new RelayCommand(OpenTrainerSetupWindow);
             OpenAboutWindowCommand = new RelayCommand(OpenAboutWindow);
+            OpenPokedexWindowCommand = new RelayCommand(OpenPokedexWindow);
 
             ToggleMuteCommand = new RelayCommand(_ => IsMuted = !IsMuted);
         }
@@ -80,6 +82,14 @@ namespace PokemonBattleSimulator.ViewModels
             aboutWindow.Owner = Application.Current.MainWindow;
             aboutWindow.WindowStartupLocation = WindowStartupLocation.CenterOwner;
             aboutWindow.Show();
+        }
+
+        private void OpenPokedexWindow(object obj)
+        {
+            PokedexWindow pokedexWindow = new PokedexWindow();
+            pokedexWindow.Owner = Application.Current.MainWindow;
+            pokedexWindow.WindowStartupLocation = WindowStartupLocation.CenterOwner;
+            pokedexWindow.Show();
         }
 
         private void UpdateMediaVolume()

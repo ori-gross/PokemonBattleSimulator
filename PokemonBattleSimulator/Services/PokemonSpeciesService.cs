@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using PokemonBattleSimulator.Models.Entities;
 
@@ -11,21 +12,36 @@ namespace PokemonBattleSimulator.Services
 {
     public static class PokemonSpeciesService
     {
-        public static List<PokemonSpecies> LoadSpecies(string jsonFilePath)
+        public static List<PokemonSpecies> LoadSpecies(string relativeJsonPath)
         {
             try
             {
-                string json = File.ReadAllText(jsonFilePath);
+                string fullPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, relativeJsonPath);
+
+                if (!File.Exists(fullPath))
+                {
+                    Console.WriteLine($"[ERROR] File not found: {fullPath}");
+                    return new List<PokemonSpecies>();
+                }
+
+                string json = File.ReadAllText(fullPath);
+                Console.WriteLine($"[DEBUG] JSON loaded: {json.Length} characters");
+
                 var options = new JsonSerializerOptions
                 {
-                    PropertyNameCaseInsensitive = true
+                    PropertyNameCaseInsensitive = true,
+                    Converters = { new JsonStringEnumConverter() }
                 };
 
-                return JsonSerializer.Deserialize<List<PokemonSpecies>>(json, options);
+                //return JsonSerializer.Deserialize<List<PokemonSpecies>>(json, options);
+                var list = JsonSerializer.Deserialize<List<PokemonSpecies>>(json, options);
+                Console.WriteLine($"[DEBUG] Loaded {list.Count} Pokémon species");
+                return list;
+
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error loading Pokémon species: {ex.Message}");
+                Console.WriteLine($"[EXCEPTION] Error loading Pokémon species: {ex}");
                 return new List<PokemonSpecies>();
             }
         }
