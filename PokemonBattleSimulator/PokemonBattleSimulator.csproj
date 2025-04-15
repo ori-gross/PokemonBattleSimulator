@@ -18,6 +18,8 @@
   <ItemGroup>
     <None Remove="Resources\Data\PokemonSpecies.json" />
     <None Remove="Resources\UI\Graphics\AppIcon.ico" />
+    <None Remove="Resources\UI\Graphics\Pokemon\Front\BULBASAUR.png" />
+    <None Remove="Resources\UI\Graphics\Pokemon\Front\IVYSAUR.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -33,6 +35,14 @@
     <Resource Include="Resources\UI\Graphics\AppIcon.ico">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="Resources\UI\Graphics\**\*.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\UI\Graphics\Icons\CategoryIcons\" />
+    <Folder Include="Resources\UI\Graphics\Icons\TypeIcons\" />
   </ItemGroup>
 
 </Project>

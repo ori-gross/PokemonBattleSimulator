@@ -73,11 +73,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/BULBASAUR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/BULBASAUR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/BULBASAUR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/BULBASAUR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/BULBASAUR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BULBASAUR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BULBASAUR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BULBASAUR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BULBASAUR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/BULBASAUR.png"
         }
     },
     {
@@ -162,11 +162,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/IVYSAUR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/IVYSAUR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/IVYSAUR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/IVYSAUR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/IVYSAUR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/IVYSAUR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/IVYSAUR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/IVYSAUR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/IVYSAUR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/IVYSAUR.png"
         }
     },
     {
@@ -259,11 +259,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VENUSAUR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VENUSAUR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VENUSAUR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VENUSAUR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VENUSAUR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VENUSAUR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VENUSAUR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VENUSAUR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VENUSAUR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VENUSAUR.png"
         }
     },
     {
@@ -332,11 +332,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CHARMANDER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CHARMANDER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CHARMANDER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CHARMANDER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CHARMANDER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHARMANDER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHARMANDER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHARMANDER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHARMANDER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CHARMANDER.png"
         }
     },
     {
@@ -409,11 +409,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CHARMELEON.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CHARMELEON.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CHARMELEON.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CHARMELEON.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CHARMELEON.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHARMELEON.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHARMELEON.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHARMELEON.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHARMELEON.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CHARMELEON.png"
         }
     },
     {
@@ -514,11 +514,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CHARIZARD.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CHARIZARD.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CHARIZARD.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CHARIZARD.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CHARIZARD.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHARIZARD.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHARIZARD.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHARIZARD.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHARIZARD.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CHARIZARD.png"
         }
     },
     {
@@ -595,11 +595,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SQUIRTLE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SQUIRTLE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SQUIRTLE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SQUIRTLE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SQUIRTLE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SQUIRTLE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SQUIRTLE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SQUIRTLE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SQUIRTLE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SQUIRTLE.png"
         }
     },
     {
@@ -684,11 +684,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/WARTORTLE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/WARTORTLE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/WARTORTLE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/WARTORTLE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/WARTORTLE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WARTORTLE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WARTORTLE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WARTORTLE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WARTORTLE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/WARTORTLE.png"
         }
     },
     {
@@ -781,11 +781,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/BLASTOISE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/BLASTOISE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/BLASTOISE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/BLASTOISE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/BLASTOISE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BLASTOISE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BLASTOISE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BLASTOISE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BLASTOISE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/BLASTOISE.png"
         }
     },
     {
@@ -818,11 +818,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CATERPIE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CATERPIE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CATERPIE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CATERPIE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CATERPIE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CATERPIE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CATERPIE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CATERPIE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CATERPIE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CATERPIE.png"
         }
     },
     {
@@ -851,11 +851,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/METAPOD.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/METAPOD.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/METAPOD.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/METAPOD.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/METAPOD.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/METAPOD.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/METAPOD.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/METAPOD.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/METAPOD.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/METAPOD.png"
         }
     },
     {
@@ -940,11 +940,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/BUTTERFREE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/BUTTERFREE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/BUTTERFREE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/BUTTERFREE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/BUTTERFREE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BUTTERFREE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BUTTERFREE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BUTTERFREE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BUTTERFREE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/BUTTERFREE.png"
         }
     },
     {
@@ -977,11 +977,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/WEEDLE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/WEEDLE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/WEEDLE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/WEEDLE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/WEEDLE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WEEDLE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WEEDLE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WEEDLE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WEEDLE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/WEEDLE.png"
         }
     },
     {
@@ -1010,11 +1010,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KAKUNA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KAKUNA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KAKUNA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KAKUNA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KAKUNA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KAKUNA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KAKUNA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KAKUNA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KAKUNA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KAKUNA.png"
         }
     },
     {
@@ -1083,11 +1083,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/BEEDRILL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/BEEDRILL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/BEEDRILL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/BEEDRILL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/BEEDRILL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BEEDRILL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BEEDRILL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BEEDRILL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BEEDRILL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/BEEDRILL.png"
         }
     },
     {
@@ -1164,11 +1164,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PIDGEY.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PIDGEY.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PIDGEY.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PIDGEY.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PIDGEY.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIDGEY.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIDGEY.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIDGEY.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIDGEY.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PIDGEY.png"
         }
     },
     {
@@ -1253,11 +1253,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PIDGEOTTO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PIDGEOTTO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PIDGEOTTO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PIDGEOTTO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PIDGEOTTO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIDGEOTTO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIDGEOTTO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIDGEOTTO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIDGEOTTO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PIDGEOTTO.png"
         }
     },
     {
@@ -1346,11 +1346,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PIDGEOT.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PIDGEOT.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PIDGEOT.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PIDGEOT.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PIDGEOT.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIDGEOT.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIDGEOT.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIDGEOT.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIDGEOT.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PIDGEOT.png"
         }
     },
     {
@@ -1423,11 +1423,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/RATTATA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/RATTATA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/RATTATA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/RATTATA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/RATTATA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RATTATA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RATTATA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RATTATA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RATTATA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/RATTATA.png"
         }
     },
     {
@@ -1516,11 +1516,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/RATICATE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/RATICATE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/RATICATE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/RATICATE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/RATICATE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RATICATE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RATICATE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RATICATE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RATICATE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/RATICATE.png"
         }
     },
     {
@@ -1585,11 +1585,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SPEAROW.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SPEAROW.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SPEAROW.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SPEAROW.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SPEAROW.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SPEAROW.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SPEAROW.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SPEAROW.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SPEAROW.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SPEAROW.png"
         }
     },
     {
@@ -1670,11 +1670,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/FEAROW.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/FEAROW.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/FEAROW.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/FEAROW.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/FEAROW.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/FEAROW.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/FEAROW.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/FEAROW.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/FEAROW.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/FEAROW.png"
         }
     },
     {
@@ -1759,11 +1759,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/EKANS.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/EKANS.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/EKANS.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/EKANS.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/EKANS.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EKANS.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EKANS.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EKANS.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EKANS.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/EKANS.png"
         }
     },
     {
@@ -1872,11 +1872,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ARBOK.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ARBOK.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ARBOK.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ARBOK.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ARBOK.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ARBOK.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ARBOK.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ARBOK.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ARBOK.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ARBOK.png"
         }
     },
     {
@@ -1953,11 +1953,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PIKACHU.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PIKACHU.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PIKACHU.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PIKACHU.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PIKACHU.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIKACHU.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PIKACHU.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIKACHU.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PIKACHU.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PIKACHU.png"
         }
     },
     {
@@ -1994,11 +1994,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/RAICHU.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/RAICHU.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/RAICHU.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/RAICHU.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/RAICHU.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RAICHU.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RAICHU.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RAICHU.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RAICHU.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/RAICHU.png"
         }
     },
     {
@@ -2071,11 +2071,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SANDSHREW.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SANDSHREW.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SANDSHREW.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SANDSHREW.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SANDSHREW.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SANDSHREW.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SANDSHREW.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SANDSHREW.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SANDSHREW.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SANDSHREW.png"
         }
     },
     {
@@ -2160,11 +2160,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SANDSLASH.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SANDSLASH.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SANDSLASH.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SANDSLASH.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SANDSLASH.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SANDSLASH.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SANDSLASH.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SANDSLASH.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SANDSLASH.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SANDSLASH.png"
         }
     },
     {
@@ -2237,11 +2237,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/NIDORANF.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/NIDORANF.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/NIDORANF.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/NIDORANF.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/NIDORANF.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORANfE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORANfE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORANfE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORANfE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/NIDORANfE.png"
         }
     },
     {
@@ -2314,11 +2314,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/NIDORINA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/NIDORINA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/NIDORINA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/NIDORINA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/NIDORINA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORINA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORINA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORINA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORINA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/NIDORINA.png"
         }
     },
     {
@@ -2371,11 +2371,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/NIDOQUEEN.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/NIDOQUEEN.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/NIDOQUEEN.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/NIDOQUEEN.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/NIDOQUEEN.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDOQUEEN.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDOQUEEN.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDOQUEEN.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDOQUEEN.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/NIDOQUEEN.png"
         }
     },
     {
@@ -2448,11 +2448,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/NIDORANM.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/NIDORANM.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/NIDORANM.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/NIDORANM.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/NIDORANM.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORANmA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORANmA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORANmA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORANmA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/NIDORANmA.png"
         }
     },
     {
@@ -2525,11 +2525,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/NIDORINO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/NIDORINO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/NIDORINO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/NIDORINO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/NIDORINO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORINO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDORINO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORINO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDORINO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/NIDORINO.png"
         }
     },
     {
@@ -2582,11 +2582,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/NIDOKING.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/NIDOKING.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/NIDOKING.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/NIDOKING.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/NIDOKING.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDOKING.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NIDOKING.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDOKING.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NIDOKING.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/NIDOKING.png"
         }
     },
     {
@@ -2687,11 +2687,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CLEFAIRY.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CLEFAIRY.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CLEFAIRY.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CLEFAIRY.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CLEFAIRY.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CLEFAIRY.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CLEFAIRY.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CLEFAIRY.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CLEFAIRY.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CLEFAIRY.png"
         }
     },
     {
@@ -2728,11 +2728,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CLEFABLE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CLEFABLE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CLEFABLE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CLEFABLE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CLEFABLE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CLEFABLE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CLEFABLE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CLEFABLE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CLEFABLE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CLEFABLE.png"
         }
     },
     {
@@ -2821,11 +2821,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VULPIX.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VULPIX.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VULPIX.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VULPIX.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VULPIX.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VULPIX.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VULPIX.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VULPIX.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VULPIX.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VULPIX.png"
         }
     },
     {
@@ -2866,11 +2866,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/NINETALES.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/NINETALES.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/NINETALES.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/NINETALES.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/NINETALES.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NINETALES.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/NINETALES.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NINETALES.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/NINETALES.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/NINETALES.png"
         }
     },
     {
@@ -2947,11 +2947,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/JIGGLYPUFF.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/JIGGLYPUFF.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/JIGGLYPUFF.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/JIGGLYPUFF.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/JIGGLYPUFF.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/JIGGLYPUFF.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/JIGGLYPUFF.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/JIGGLYPUFF.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/JIGGLYPUFF.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/JIGGLYPUFF.png"
         }
     },
     {
@@ -2988,11 +2988,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/WIGGLYTUFF.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/WIGGLYTUFF.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/WIGGLYTUFF.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/WIGGLYTUFF.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/WIGGLYTUFF.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WIGGLYTUFF.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WIGGLYTUFF.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WIGGLYTUFF.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WIGGLYTUFF.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/WIGGLYTUFF.png"
         }
     },
     {
@@ -3061,11 +3061,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ZUBAT.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ZUBAT.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ZUBAT.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ZUBAT.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ZUBAT.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ZUBAT.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ZUBAT.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ZUBAT.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ZUBAT.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ZUBAT.png"
         }
     },
     {
@@ -3146,11 +3146,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GOLBAT.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GOLBAT.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GOLBAT.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GOLBAT.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GOLBAT.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLBAT.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLBAT.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLBAT.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLBAT.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GOLBAT.png"
         }
     },
     {
@@ -3219,11 +3219,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ODDISH.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ODDISH.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ODDISH.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ODDISH.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ODDISH.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ODDISH.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ODDISH.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ODDISH.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ODDISH.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ODDISH.png"
         }
     },
     {
@@ -3300,11 +3300,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GLOOM.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GLOOM.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GLOOM.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GLOOM.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GLOOM.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GLOOM.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GLOOM.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GLOOM.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GLOOM.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GLOOM.png"
         }
     },
     {
@@ -3349,11 +3349,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VILEPLUME.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VILEPLUME.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VILEPLUME.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VILEPLUME.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VILEPLUME.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VILEPLUME.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VILEPLUME.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VILEPLUME.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VILEPLUME.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VILEPLUME.png"
         }
     },
     {
@@ -3422,11 +3422,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PARAS.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PARAS.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PARAS.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PARAS.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PARAS.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PARAS.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PARAS.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PARAS.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PARAS.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PARAS.png"
         }
     },
     {
@@ -3511,11 +3511,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PARASECT.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PARASECT.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PARASECT.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PARASECT.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PARASECT.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PARASECT.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PARASECT.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PARASECT.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PARASECT.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PARASECT.png"
         }
     },
     {
@@ -3592,11 +3592,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VENONAT.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VENONAT.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VENONAT.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VENONAT.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VENONAT.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VENONAT.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VENONAT.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VENONAT.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VENONAT.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VENONAT.png"
         }
     },
     {
@@ -3693,11 +3693,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VENOMOTH.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VENOMOTH.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VENOMOTH.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VENOMOTH.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VENOMOTH.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VENOMOTH.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VENOMOTH.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VENOMOTH.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VENOMOTH.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VENOMOTH.png"
         }
     },
     {
@@ -3774,11 +3774,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DIGLETT.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DIGLETT.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DIGLETT.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DIGLETT.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DIGLETT.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DIGLETT.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DIGLETT.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DIGLETT.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DIGLETT.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DIGLETT.png"
         }
     },
     {
@@ -3871,11 +3871,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DUGTRIO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DUGTRIO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DUGTRIO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DUGTRIO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DUGTRIO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DUGTRIO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DUGTRIO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DUGTRIO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DUGTRIO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DUGTRIO.png"
         }
     },
     {
@@ -3956,11 +3956,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MEOWTH.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MEOWTH.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MEOWTH.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MEOWTH.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MEOWTH.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MEOWTH.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MEOWTH.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MEOWTH.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MEOWTH.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MEOWTH.png"
         }
     },
     {
@@ -4053,11 +4053,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PERSIAN.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PERSIAN.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PERSIAN.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PERSIAN.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PERSIAN.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PERSIAN.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PERSIAN.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PERSIAN.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PERSIAN.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PERSIAN.png"
         }
     },
     {
@@ -4138,11 +4138,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PSYDUCK.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PSYDUCK.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PSYDUCK.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PSYDUCK.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PSYDUCK.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PSYDUCK.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PSYDUCK.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PSYDUCK.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PSYDUCK.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PSYDUCK.png"
         }
     },
     {
@@ -4235,11 +4235,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GOLDUCK.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GOLDUCK.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GOLDUCK.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GOLDUCK.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GOLDUCK.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLDUCK.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLDUCK.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLDUCK.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLDUCK.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GOLDUCK.png"
         }
     },
     {
@@ -4324,11 +4324,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MANKEY.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MANKEY.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MANKEY.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MANKEY.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MANKEY.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MANKEY.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MANKEY.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MANKEY.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MANKEY.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MANKEY.png"
         }
     },
     {
@@ -4417,11 +4417,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PRIMEAPE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PRIMEAPE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PRIMEAPE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PRIMEAPE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PRIMEAPE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PRIMEAPE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PRIMEAPE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PRIMEAPE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PRIMEAPE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PRIMEAPE.png"
         }
     },
     {
@@ -4510,11 +4510,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GROWLITHE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GROWLITHE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GROWLITHE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GROWLITHE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GROWLITHE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GROWLITHE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GROWLITHE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GROWLITHE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GROWLITHE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GROWLITHE.png"
         }
     },
     {
@@ -4559,11 +4559,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ARCANINE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ARCANINE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ARCANINE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ARCANINE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ARCANINE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ARCANINE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ARCANINE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ARCANINE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ARCANINE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ARCANINE.png"
         }
     },
     {
@@ -4636,11 +4636,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/POLIWAG.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/POLIWAG.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/POLIWAG.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/POLIWAG.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/POLIWAG.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/POLIWAG.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/POLIWAG.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/POLIWAG.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/POLIWAG.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/POLIWAG.png"
         }
     },
     {
@@ -4721,11 +4721,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/POLIWHIRL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/POLIWHIRL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/POLIWHIRL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/POLIWHIRL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/POLIWHIRL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/POLIWHIRL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/POLIWHIRL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/POLIWHIRL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/POLIWHIRL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/POLIWHIRL.png"
         }
     },
     {
@@ -4774,11 +4774,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/POLIWRATH.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/POLIWRATH.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/POLIWRATH.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/POLIWRATH.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/POLIWRATH.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/POLIWRATH.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/POLIWRATH.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/POLIWRATH.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/POLIWRATH.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/POLIWRATH.png"
         }
     },
     {
@@ -4803,11 +4803,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ABRA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ABRA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ABRA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ABRA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ABRA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ABRA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ABRA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ABRA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ABRA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ABRA.png"
         }
     },
     {
@@ -4892,11 +4892,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KADABRA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KADABRA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KADABRA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KADABRA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KADABRA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KADABRA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KADABRA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KADABRA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KADABRA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KADABRA.png"
         }
     },
     {
@@ -4981,11 +4981,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ALAKAZAM.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ALAKAZAM.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ALAKAZAM.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ALAKAZAM.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ALAKAZAM.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ALAKAZAM.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ALAKAZAM.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ALAKAZAM.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ALAKAZAM.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ALAKAZAM.png"
         }
     },
     {
@@ -5062,11 +5062,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MACHOP.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MACHOP.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MACHOP.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MACHOP.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MACHOP.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MACHOP.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MACHOP.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MACHOP.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MACHOP.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MACHOP.png"
         }
     },
     {
@@ -5151,11 +5151,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MACHOKE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MACHOKE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MACHOKE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MACHOKE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MACHOKE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MACHOKE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MACHOKE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MACHOKE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MACHOKE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MACHOKE.png"
         }
     },
     {
@@ -5244,11 +5244,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MACHAMP.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MACHAMP.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MACHAMP.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MACHAMP.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MACHAMP.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MACHAMP.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MACHAMP.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MACHAMP.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MACHAMP.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MACHAMP.png"
         }
     },
     {
@@ -5321,11 +5321,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/BELLSPROUT.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/BELLSPROUT.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/BELLSPROUT.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/BELLSPROUT.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/BELLSPROUT.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BELLSPROUT.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/BELLSPROUT.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BELLSPROUT.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/BELLSPROUT.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/BELLSPROUT.png"
         }
     },
     {
@@ -5406,11 +5406,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/WEEPINBELL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/WEEPINBELL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/WEEPINBELL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/WEEPINBELL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/WEEPINBELL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WEEPINBELL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WEEPINBELL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WEEPINBELL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WEEPINBELL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/WEEPINBELL.png"
         }
     },
     {
@@ -5471,11 +5471,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VICTREEBEL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VICTREEBEL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VICTREEBEL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VICTREEBEL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VICTREEBEL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VICTREEBEL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VICTREEBEL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VICTREEBEL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VICTREEBEL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VICTREEBEL.png"
         }
     },
     {
@@ -5560,11 +5560,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/TENTACOOL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/TENTACOOL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/TENTACOOL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/TENTACOOL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/TENTACOOL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TENTACOOL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TENTACOOL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TENTACOOL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TENTACOOL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/TENTACOOL.png"
         }
     },
     {
@@ -5657,11 +5657,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/TENTACRUEL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/TENTACRUEL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/TENTACRUEL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/TENTACRUEL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/TENTACRUEL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TENTACRUEL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TENTACRUEL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TENTACRUEL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TENTACRUEL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/TENTACRUEL.png"
         }
     },
     {
@@ -5746,11 +5746,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GEODUDE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GEODUDE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GEODUDE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GEODUDE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GEODUDE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GEODUDE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GEODUDE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GEODUDE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GEODUDE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GEODUDE.png"
         }
     },
     {
@@ -5843,11 +5843,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GRAVELER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GRAVELER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GRAVELER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GRAVELER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GRAVELER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GRAVELER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GRAVELER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GRAVELER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GRAVELER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GRAVELER.png"
         }
     },
     {
@@ -5944,11 +5944,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GOLEM.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GOLEM.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GOLEM.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GOLEM.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GOLEM.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLEM.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLEM.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLEM.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLEM.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GOLEM.png"
         }
     },
     {
@@ -6025,11 +6025,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PONYTA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PONYTA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PONYTA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PONYTA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PONYTA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PONYTA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PONYTA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PONYTA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PONYTA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PONYTA.png"
         }
     },
     {
@@ -6126,11 +6126,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/RAPIDASH.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/RAPIDASH.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/RAPIDASH.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/RAPIDASH.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/RAPIDASH.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RAPIDASH.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RAPIDASH.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RAPIDASH.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RAPIDASH.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/RAPIDASH.png"
         }
     },
     {
@@ -6215,11 +6215,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SLOWPOKE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SLOWPOKE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SLOWPOKE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SLOWPOKE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SLOWPOKE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SLOWPOKE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SLOWPOKE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SLOWPOKE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SLOWPOKE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SLOWPOKE.png"
         }
     },
     {
@@ -6312,11 +6312,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SLOWBRO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SLOWBRO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SLOWBRO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SLOWBRO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SLOWBRO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SLOWBRO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SLOWBRO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SLOWBRO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SLOWBRO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SLOWBRO.png"
         }
     },
     {
@@ -6401,11 +6401,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MAGNEMITE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MAGNEMITE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MAGNEMITE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MAGNEMITE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MAGNEMITE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGNEMITE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGNEMITE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGNEMITE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGNEMITE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MAGNEMITE.png"
         }
     },
     {
@@ -6502,11 +6502,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MAGNETON.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MAGNETON.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MAGNETON.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MAGNETON.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MAGNETON.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGNETON.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGNETON.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGNETON.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGNETON.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MAGNETON.png"
         }
     },
     {
@@ -6599,11 +6599,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/FARFETCH'D.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/FARFETCH'D.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/FARFETCH'D.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/FARFETCH'D.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/FARFETCH'D.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/FARFETCHD.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/FARFETCHD.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/FARFETCHD.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/FARFETCHD.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/FARFETCHD.png"
         }
     },
     {
@@ -6676,11 +6676,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DODUO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DODUO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DODUO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DODUO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DODUO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DODUO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DODUO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DODUO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DODUO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DODUO.png"
         }
     },
     {
@@ -6765,11 +6765,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DODRIO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DODRIO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DODRIO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DODRIO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DODRIO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DODRIO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DODRIO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DODRIO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DODRIO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DODRIO.png"
         }
     },
     {
@@ -6858,11 +6858,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SEEL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SEEL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SEEL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SEEL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SEEL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SEEL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SEEL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SEEL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SEEL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SEEL.png"
         }
     },
     {
@@ -6967,11 +6967,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DEWGONG.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DEWGONG.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DEWGONG.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DEWGONG.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DEWGONG.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DEWGONG.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DEWGONG.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DEWGONG.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DEWGONG.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DEWGONG.png"
         }
     },
     {
@@ -7052,11 +7052,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GRIMER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GRIMER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GRIMER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GRIMER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GRIMER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GRIMER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GRIMER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GRIMER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GRIMER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GRIMER.png"
         }
     },
     {
@@ -7145,11 +7145,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MUK.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MUK.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MUK.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MUK.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MUK.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MUK.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MUK.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MUK.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MUK.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MUK.png"
         }
     },
     {
@@ -7234,11 +7234,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SHELLDER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SHELLDER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SHELLDER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SHELLDER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SHELLDER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SHELLDER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SHELLDER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SHELLDER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SHELLDER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SHELLDER.png"
         }
     },
     {
@@ -7291,11 +7291,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CLOYSTER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CLOYSTER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CLOYSTER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CLOYSTER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CLOYSTER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CLOYSTER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CLOYSTER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CLOYSTER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CLOYSTER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CLOYSTER.png"
         }
     },
     {
@@ -7376,11 +7376,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GASTLY.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GASTLY.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GASTLY.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GASTLY.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GASTLY.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GASTLY.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GASTLY.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GASTLY.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GASTLY.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GASTLY.png"
         }
     },
     {
@@ -7469,11 +7469,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/HAUNTER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/HAUNTER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/HAUNTER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/HAUNTER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/HAUNTER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HAUNTER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HAUNTER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HAUNTER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HAUNTER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/HAUNTER.png"
         }
     },
     {
@@ -7562,11 +7562,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GENGAR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GENGAR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GENGAR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GENGAR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GENGAR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GENGAR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GENGAR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GENGAR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GENGAR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GENGAR.png"
         }
     },
     {
@@ -7663,11 +7663,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ONIX.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ONIX.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ONIX.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ONIX.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ONIX.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ONIX.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ONIX.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ONIX.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ONIX.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ONIX.png"
         }
     },
     {
@@ -7756,11 +7756,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DROWZEE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DROWZEE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DROWZEE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DROWZEE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DROWZEE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DROWZEE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DROWZEE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DROWZEE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DROWZEE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DROWZEE.png"
         }
     },
     {
@@ -7865,11 +7865,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/HYPNO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/HYPNO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/HYPNO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/HYPNO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/HYPNO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HYPNO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HYPNO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HYPNO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HYPNO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/HYPNO.png"
         }
     },
     {
@@ -7950,11 +7950,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KRABBY.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KRABBY.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KRABBY.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KRABBY.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KRABBY.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KRABBY.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KRABBY.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KRABBY.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KRABBY.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KRABBY.png"
         }
     },
     {
@@ -8047,11 +8047,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KINGLER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KINGLER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KINGLER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KINGLER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KINGLER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KINGLER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KINGLER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KINGLER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KINGLER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KINGLER.png"
         }
     },
     {
@@ -8132,11 +8132,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VOLTORB.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VOLTORB.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VOLTORB.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VOLTORB.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VOLTORB.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VOLTORB.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VOLTORB.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VOLTORB.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VOLTORB.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VOLTORB.png"
         }
     },
     {
@@ -8229,11 +8229,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ELECTRODE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ELECTRODE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ELECTRODE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ELECTRODE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ELECTRODE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ELECTRODE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ELECTRODE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ELECTRODE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ELECTRODE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ELECTRODE.png"
         }
     },
     {
@@ -8314,11 +8314,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/EXEGGCUTE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/EXEGGCUTE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/EXEGGCUTE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/EXEGGCUTE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/EXEGGCUTE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EXEGGCUTE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EXEGGCUTE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EXEGGCUTE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EXEGGCUTE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/EXEGGCUTE.png"
         }
     },
     {
@@ -8375,11 +8375,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/EXEGGUTOR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/EXEGGUTOR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/EXEGGUTOR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/EXEGGUTOR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/EXEGGUTOR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EXEGGUTOR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EXEGGUTOR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EXEGGUTOR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EXEGGUTOR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/EXEGGUTOR.png"
         }
     },
     {
@@ -8460,11 +8460,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CUBONE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CUBONE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CUBONE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CUBONE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CUBONE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CUBONE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CUBONE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CUBONE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CUBONE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CUBONE.png"
         }
     },
     {
@@ -8557,11 +8557,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MAROWAK.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MAROWAK.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MAROWAK.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MAROWAK.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MAROWAK.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAROWAK.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAROWAK.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAROWAK.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAROWAK.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MAROWAK.png"
         }
     },
     {
@@ -8650,11 +8650,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/HITMONLEE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/HITMONLEE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/HITMONLEE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/HITMONLEE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/HITMONLEE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HITMONLEE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HITMONLEE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HITMONLEE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HITMONLEE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/HITMONLEE.png"
         }
     },
     {
@@ -8747,11 +8747,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/HITMONCHAN.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/HITMONCHAN.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/HITMONCHAN.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/HITMONCHAN.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/HITMONCHAN.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HITMONCHAN.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HITMONCHAN.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HITMONCHAN.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HITMONCHAN.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/HITMONCHAN.png"
         }
     },
     {
@@ -8832,11 +8832,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/LICKITUNG.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/LICKITUNG.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/LICKITUNG.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/LICKITUNG.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/LICKITUNG.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/LICKITUNG.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/LICKITUNG.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/LICKITUNG.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/LICKITUNG.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/LICKITUNG.png"
         }
     },
     {
@@ -8913,11 +8913,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KOFFING.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KOFFING.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KOFFING.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KOFFING.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KOFFING.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KOFFING.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KOFFING.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KOFFING.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KOFFING.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KOFFING.png"
         }
     },
     {
@@ -9002,11 +9002,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/WEEZING.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/WEEZING.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/WEEZING.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/WEEZING.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/WEEZING.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WEEZING.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/WEEZING.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WEEZING.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/WEEZING.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/WEEZING.png"
         }
     },
     {
@@ -9083,11 +9083,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/RHYHORN.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/RHYHORN.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/RHYHORN.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/RHYHORN.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/RHYHORN.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RHYHORN.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RHYHORN.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RHYHORN.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RHYHORN.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/RHYHORN.png"
         }
     },
     {
@@ -9176,11 +9176,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/RHYDON.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/RHYDON.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/RHYDON.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/RHYDON.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/RHYDON.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RHYDON.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/RHYDON.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RHYDON.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/RHYDON.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/RHYDON.png"
         }
     },
     {
@@ -9269,11 +9269,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/CHANSEY.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/CHANSEY.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/CHANSEY.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/CHANSEY.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/CHANSEY.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHANSEY.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/CHANSEY.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHANSEY.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/CHANSEY.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/CHANSEY.png"
         }
     },
     {
@@ -9362,11 +9362,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/TANGELA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/TANGELA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/TANGELA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/TANGELA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/TANGELA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TANGELA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TANGELA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TANGELA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TANGELA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/TANGELA.png"
         }
     },
     {
@@ -9447,11 +9447,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KANGASKHAN.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KANGASKHAN.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KANGASKHAN.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KANGASKHAN.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KANGASKHAN.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KANGASKHAN.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KANGASKHAN.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KANGASKHAN.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KANGASKHAN.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KANGASKHAN.png"
         }
     },
     {
@@ -9520,11 +9520,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/HORSEA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/HORSEA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/HORSEA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/HORSEA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/HORSEA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HORSEA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/HORSEA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HORSEA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/HORSEA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/HORSEA.png"
         }
     },
     {
@@ -9605,11 +9605,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SEADRA.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SEADRA.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SEADRA.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SEADRA.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SEADRA.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SEADRA.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SEADRA.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SEADRA.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SEADRA.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SEADRA.png"
         }
     },
     {
@@ -9686,11 +9686,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GOLDEEN.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GOLDEEN.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GOLDEEN.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GOLDEEN.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GOLDEEN.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLDEEN.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GOLDEEN.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLDEEN.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GOLDEEN.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GOLDEEN.png"
         }
     },
     {
@@ -9775,11 +9775,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SEAKING.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SEAKING.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SEAKING.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SEAKING.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SEAKING.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SEAKING.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SEAKING.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SEAKING.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SEAKING.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SEAKING.png"
         }
     },
     {
@@ -9860,11 +9860,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/STARYU.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/STARYU.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/STARYU.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/STARYU.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/STARYU.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/STARYU.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/STARYU.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/STARYU.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/STARYU.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/STARYU.png"
         }
     },
     {
@@ -9905,11 +9905,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/STARMIE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/STARMIE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/STARMIE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/STARMIE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/STARMIE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/STARMIE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/STARMIE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/STARMIE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/STARMIE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/STARMIE.png"
         }
     },
     {
@@ -10018,11 +10018,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MR. MIME.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MR. MIME.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MR. MIME.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MR. MIME.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MR. MIME.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MRMIME.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MRMIME.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MRMIME.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MRMIME.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MRMIME.png"
         }
     },
     {
@@ -10115,11 +10115,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SCYTHER.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SCYTHER.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SCYTHER.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SCYTHER.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SCYTHER.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SCYTHER.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SCYTHER.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SCYTHER.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SCYTHER.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SCYTHER.png"
         }
     },
     {
@@ -10212,11 +10212,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/JYNX.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/JYNX.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/JYNX.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/JYNX.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/JYNX.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/JYNX.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/JYNX.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/JYNX.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/JYNX.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/JYNX.png"
         }
     },
     {
@@ -10293,11 +10293,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ELECTABUZZ.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ELECTABUZZ.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ELECTABUZZ.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ELECTABUZZ.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ELECTABUZZ.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ELECTABUZZ.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ELECTABUZZ.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ELECTABUZZ.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ELECTABUZZ.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ELECTABUZZ.png"
         }
     },
     {
@@ -10374,11 +10374,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MAGMAR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MAGMAR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MAGMAR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MAGMAR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MAGMAR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGMAR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGMAR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGMAR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGMAR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MAGMAR.png"
         }
     },
     {
@@ -10455,11 +10455,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PINSIR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PINSIR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PINSIR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PINSIR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PINSIR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PINSIR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PINSIR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PINSIR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PINSIR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PINSIR.png"
         }
     },
     {
@@ -10536,11 +10536,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/TAUROS.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/TAUROS.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/TAUROS.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/TAUROS.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/TAUROS.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TAUROS.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/TAUROS.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TAUROS.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/TAUROS.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/TAUROS.png"
         }
     },
     {
@@ -10573,11 +10573,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MAGIKARP.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MAGIKARP.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MAGIKARP.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MAGIKARP.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MAGIKARP.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGIKARP.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MAGIKARP.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGIKARP.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MAGIKARP.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MAGIKARP.png"
         }
     },
     {
@@ -10642,11 +10642,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/GYARADOS.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/GYARADOS.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/GYARADOS.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/GYARADOS.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/GYARADOS.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GYARADOS.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/GYARADOS.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GYARADOS.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/GYARADOS.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/GYARADOS.png"
         }
     },
     {
@@ -10727,11 +10727,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/LAPRAS.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/LAPRAS.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/LAPRAS.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/LAPRAS.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/LAPRAS.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/LAPRAS.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/LAPRAS.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/LAPRAS.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/LAPRAS.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/LAPRAS.png"
         }
     },
     {
@@ -10756,11 +10756,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DITTO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DITTO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DITTO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DITTO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DITTO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DITTO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DITTO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DITTO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DITTO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DITTO.png"
         }
     },
     {
@@ -10825,11 +10825,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/EEVEE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/EEVEE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/EEVEE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/EEVEE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/EEVEE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EEVEE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/EEVEE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EEVEE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/EEVEE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/EEVEE.png"
         }
     },
     {
@@ -10906,11 +10906,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/VAPOREON.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/VAPOREON.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/VAPOREON.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/VAPOREON.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/VAPOREON.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VAPOREON.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/VAPOREON.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VAPOREON.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/VAPOREON.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/VAPOREON.png"
         }
     },
     {
@@ -10987,11 +10987,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/JOLTEON.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/JOLTEON.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/JOLTEON.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/JOLTEON.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/JOLTEON.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/JOLTEON.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/JOLTEON.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/JOLTEON.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/JOLTEON.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/JOLTEON.png"
         }
     },
     {
@@ -11068,11 +11068,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/FLAREON.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/FLAREON.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/FLAREON.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/FLAREON.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/FLAREON.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/FLAREON.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/FLAREON.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/FLAREON.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/FLAREON.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/FLAREON.png"
         }
     },
     {
@@ -11153,11 +11153,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/PORYGON.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/PORYGON.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/PORYGON.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/PORYGON.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/PORYGON.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PORYGON.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/PORYGON.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PORYGON.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/PORYGON.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/PORYGON.png"
         }
     },
     {
@@ -11234,11 +11234,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/OMANYTE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/OMANYTE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/OMANYTE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/OMANYTE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/OMANYTE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/OMANYTE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/OMANYTE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/OMANYTE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/OMANYTE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/OMANYTE.png"
         }
     },
     {
@@ -11323,11 +11323,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/OMASTAR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/OMASTAR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/OMASTAR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/OMASTAR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/OMASTAR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/OMASTAR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/OMASTAR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/OMASTAR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/OMASTAR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/OMASTAR.png"
         }
     },
     {
@@ -11396,11 +11396,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KABUTO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KABUTO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KABUTO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KABUTO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KABUTO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KABUTO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KABUTO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KABUTO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KABUTO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KABUTO.png"
         }
     },
     {
@@ -11489,11 +11489,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/KABUTOPS.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/KABUTOPS.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/KABUTOPS.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/KABUTOPS.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/KABUTOPS.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KABUTOPS.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/KABUTOPS.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KABUTOPS.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/KABUTOPS.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/KABUTOPS.png"
         }
     },
     {
@@ -11582,11 +11582,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/AERODACTYL.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/AERODACTYL.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/AERODACTYL.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/AERODACTYL.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/AERODACTYL.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/AERODACTYL.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/AERODACTYL.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/AERODACTYL.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/AERODACTYL.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/AERODACTYL.png"
         }
     },
     {
@@ -11671,11 +11671,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/SNORLAX.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/SNORLAX.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/SNORLAX.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/SNORLAX.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/SNORLAX.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SNORLAX.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/SNORLAX.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SNORLAX.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/SNORLAX.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/SNORLAX.png"
         }
     },
     {
@@ -11752,11 +11752,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ARTICUNO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ARTICUNO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ARTICUNO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ARTICUNO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ARTICUNO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ARTICUNO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ARTICUNO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ARTICUNO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ARTICUNO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ARTICUNO.png"
         }
     },
     {
@@ -11833,11 +11833,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/ZAPDOS.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/ZAPDOS.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/ZAPDOS.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/ZAPDOS.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/ZAPDOS.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ZAPDOS.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/ZAPDOS.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ZAPDOS.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/ZAPDOS.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/ZAPDOS.png"
         }
     },
     {
@@ -11914,11 +11914,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MOLTRES.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MOLTRES.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MOLTRES.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MOLTRES.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MOLTRES.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MOLTRES.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MOLTRES.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MOLTRES.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MOLTRES.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MOLTRES.png"
         }
     },
     {
@@ -11995,11 +11995,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DRATINI.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DRATINI.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DRATINI.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DRATINI.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DRATINI.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DRATINI.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DRATINI.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DRATINI.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DRATINI.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DRATINI.png"
         }
     },
     {
@@ -12084,11 +12084,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DRAGONAIR.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DRAGONAIR.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DRAGONAIR.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DRAGONAIR.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DRAGONAIR.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DRAGONAIR.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DRAGONAIR.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DRAGONAIR.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DRAGONAIR.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DRAGONAIR.png"
         }
     },
     {
@@ -12193,11 +12193,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/DRAGONITE.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/DRAGONITE.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/DRAGONITE.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/DRAGONITE.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/DRAGONITE.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DRAGONITE.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/DRAGONITE.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DRAGONITE.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/DRAGONITE.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/DRAGONITE.png"
         }
     },
     {
@@ -12290,11 +12290,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MEWTWO.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MEWTWO.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MEWTWO.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MEWTWO.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MEWTWO.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MEWTWO.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MEWTWO.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MEWTWO.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MEWTWO.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MEWTWO.png"
         }
     },
     {
@@ -12367,11 +12367,11 @@
             ]
         },
         "Sprites": {
-            "FrontImageMalePath": "Resources/Graphics/Pokemon/Front/MEW.png",
-            "FrontImageFemalePath": "Resources/Graphics/Pokemon/Front/MEW.png",
-            "BackImageMalePath": "Resources/Graphics/Pokemon/Back/MEW.png",
-            "BackImageFemalePath": "Resources/Graphics/Pokemon/Back/MEW.png",
-            "IconImagePath": "Resources/Graphics/Pokemon/Icons/MEW.png"
+            "FrontImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MEW.png",
+            "FrontImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/MEW.png",
+            "BackImageMalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MEW.png",
+            "BackImageFemalePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/MEW.png",
+            "IconImagePath": "pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/MEW.png"
         }
     }
 ]

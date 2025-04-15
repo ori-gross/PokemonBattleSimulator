@@ -97,11 +97,11 @@ def build_sprite_paths(pokemon_name):
         sprite_name = pokemon_name.upper()
 
     return {
-        "FrontImageMalePath": f"Resources/Graphics/Pokemon/Front/{sprite_name}.png",
-        "FrontImageFemalePath": f"Resources/Graphics/Pokemon/Front/{sprite_name}.png",
-        "BackImageMalePath": f"Resources/Graphics/Pokemon/Back/{sprite_name}.png",
-        "BackImageFemalePath": f"Resources/Graphics/Pokemon/Back/{sprite_name}.png",
-        "IconImagePath": f"Resources/Graphics/Pokemon/Icons/{sprite_name}.png"
+        "FrontImageMalePath": f"pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/{sprite_name}.png",
+        "FrontImageFemalePath": f"pack://application:,,,/Resources/UI/Graphics/Pokemon/Front/{sprite_name}.png",
+        "BackImageMalePath": f"pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/{sprite_name}.png",
+        "BackImageFemalePath": f"pack://application:,,,/Resources/UI/Graphics/Pokemon/Back/{sprite_name}.png",
+        "IconImagePath": f"pack://application:,,,/Resources/UI/Graphics/Pokemon/Icons/{sprite_name}.png"
     }
 
 # Fetch data for the first 9 Pokémon

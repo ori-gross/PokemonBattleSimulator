@@ -4,8 +4,14 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PokemonBattleSimulator.Views"
+        xmlns:conv="clr-namespace:PokemonBattleSimulator.Utilities.Converters"
         mc:Ignorable="d"
         Title="Pokedex" Height="450" Width="800">
+
+    <Window.Resources>
+        <conv:ImagePathToImageSourceConverter x:Key="ImageConverter" />
+    </Window.Resources>
+
     <Grid>
         <Grid>
             <DataGrid ItemsSource="{Binding PokemonSpeciesList}"
@@ -25,7 +31,8 @@
                     <DataGridTemplateColumn Header="Sprite" Width="64">
                         <DataGridTemplateColumn.CellTemplate>
                             <DataTemplate>
-                                <Image Source="{Binding Sprites.FrontImageMalePath}" Width="64" Height="64"/>
+                                <Image Source="{Binding Sprites.FrontImageMalePath, Converter={StaticResource ImageConverter}}"
+                                Width="64" Height="64"/>
                             </DataTemplate>
                         </DataGridTemplateColumn.CellTemplate>
                     </DataGridTemplateColumn>
@@ -44,12 +51,12 @@
                     </DataGridTextColumn>
 
                     <!-- Base Stats -->
-                    <DataGridTextColumn Header="HP" Binding="{Binding BaseStats.HP}" Width="50"/>
-                    <DataGridTextColumn Header="Attack" Binding="{Binding BaseStats.Attack}" Width="50"/>
-                    <DataGridTextColumn Header="Defense" Binding="{Binding BaseStats.Defense}" Width="50"/>
-                    <DataGridTextColumn Header="Sp.Att" Binding="{Binding BaseStats.SpecialAttack}" Width="50"/>
-                    <DataGridTextColumn Header="Sp.Def" Binding="{Binding BaseStats.SpecialDefense}" Width="50"/>
-                    <DataGridTextColumn Header="Speed" Binding="{Binding BaseStats.Speed}" Width="50"/>
+                    <DataGridTextColumn Header="HP" Binding="{Binding BaseStats.HP}" Width="55"/>
+                    <DataGridTextColumn Header="Attack" Binding="{Binding BaseStats.Attack}" Width="55"/>
+                    <DataGridTextColumn Header="Defense" Binding="{Binding BaseStats.Defense}" Width="55"/>
+                    <DataGridTextColumn Header="Sp.Att" Binding="{Binding BaseStats.SpecialAttack}" Width="55"/>
+                    <DataGridTextColumn Header="Sp.Def" Binding="{Binding BaseStats.SpecialDefense}" Width="55"/>
+                    <DataGridTextColumn Header="Speed" Binding="{Binding BaseStats.Speed}" Width="55"/>
                 </DataGrid.Columns>
             </DataGrid>
         </Grid>
