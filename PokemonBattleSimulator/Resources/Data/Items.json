@@ -2,86 +2,86 @@
     {
         "Name": "Potion",
         "Description": "Restores 20 HP.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/POTION.png"
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/POTION.png"
     },
     {
         "Name": "Super Potion",
         "Description": "Restores 60 HP.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/SUPERPOTION.png"
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/SUPERPOTION.png"
     },
     {
         "Name": "Hyper Potion",
         "Description": "Restores 120 HP.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/HYPERPOTION.png"
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/HYPERPOTION.png"
     },
     {
         "Name": "Max Potion",
         "Description": "Fully restores HP.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/MAXPOTION.png"
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/MAXPOTION.png"
     },
     {
         "Name": "Antidote",
-        "Description": "Cures a Pok?mon of poisoning.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/ANTIDOTE.png"
+        "Description": "Cures a Pokemon of poisoning.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/ANTIDOTE.png"
     },
     {
         "Name": "Awakening",
-        "Description": "Wakes up a sleeping Pok?mon.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/AWAKENING.png"
+        "Description": "Wakes up a sleeping Pokemon.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/AWAKENING.png"
     },
     {
         "Name": "Burn Heal",
-        "Description": "Cures a Pok?mon of a burn.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/BURNHEAL.png"
+        "Description": "Cures a Pokemon of a burn.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/BURNHEAL.png"
     },
     {
         "Name": "Ice Heal",
-        "Description": "Cures a Pok?mon of freezing.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/ICEHEAL.png"
+        "Description": "Cures a Pokemon of freezing.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/ICEHEAL.png"
     },
     {
         "Name": "Paralyze Heal",
-        "Description": "Cures a Pok?mon of paralysis.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/PARALYZEHEAL.png"
+        "Description": "Cures a Pokemon of paralysis.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/PARALYZEHEAL.png"
     },
     {
         "Name": "Full Heal",
         "Description": "Cures all status conditions.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/FULLHEAL.png"
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/FULLHEAL.png"
     },
     {
         "Name": "Full Restore",
-        "Description": "Fully restores HP and cures any status condition of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/FULLRESTORE.png"
+        "Description": "Fully restores HP and cures any status condition of a Pokemon.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/FULLRESTORE.png"
     },
     {
         "Name": "Revive",
-        "Description": "Revives a fainted Pok?mon, restoring half its HP.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/REVIVE.png"
+        "Description": "Revives a fainted Pokemon, restoring half its HP.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/REVIVE.png"
     },
     {
         "Name": "Max Revive",
-        "Description": "Revives a fainted Pok?mon, fully restoring its HP.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/MAXREVIVE.png"
+        "Description": "Revives a fainted Pokemon, fully restoring its HP.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/MAXREVIVE.png"
     },
     {
         "Name": "Ether",
-        "Description": "Restores 10 PP to one move of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/ETHER.png"
+        "Description": "Restores 10 PP to one move of a Pokemon.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/ETHER.png"
     },
     {
         "Name": "Max Ether",
-        "Description": "Fully restores PP to one move of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/MAXETHER.png"
+        "Description": "Fully restores PP to one move of a Pokemon.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/MAXETHER.png"
     },
     {
         "Name": "Elixir",
-        "Description": "Restores 10 PP to all moves of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/ELIXIR.png"
+        "Description": "Restores 10 PP to all moves of a Pokemon.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/ELIXIR.png"
     },
     {
         "Name": "Max Elixir",
-        "Description": "Fully restores PP to all moves of a Pok?mon.",
-        "ItemImagePath": "Resources/UI/Graphics/Items/MAXELIXIR.png"
+        "Description": "Fully restores PP to all moves of a Pokemon.",
+        "ItemImagePath": "pack://application:,,,/Resources/UI/Graphics/Items/MAXELIXIR.png"
     }
 ]

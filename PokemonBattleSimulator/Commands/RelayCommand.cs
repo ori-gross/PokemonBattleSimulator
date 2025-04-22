@@ -25,7 +25,7 @@ namespace PokemonBattleSimulator.Commands
             return _canExecute == null || _canExecute(parameter);
         }
 
-        public void Execute(object? parameter)
+        public virtual void Execute(object? parameter)
         {
             _execute(parameter);
         }

@@ -16,14 +16,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Resources\Data\PokemonSpecies.json" />
+    <None Remove="Resources\Data\*.json" />
     <None Remove="Resources\UI\Graphics\AppIcon.ico" />
     <None Remove="Resources\UI\Graphics\Pokemon\Front\BULBASAUR.png" />
     <None Remove="Resources\UI\Graphics\Pokemon\Front\IVYSAUR.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="Resources\Data\PokemonSpecies.json">
+    <Content Include="Resources\Data\*.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\UI\Audio\MainTheme.mp3">
@@ -41,8 +41,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Resources\UI\Graphics\Icons\CategoryIcons\" />
-    <Folder Include="Resources\UI\Graphics\Icons\TypeIcons\" />
+    <Folder Include="Resources\UI\Graphics\Icons\Categories\" />
+    <Folder Include="Resources\UI\Graphics\Icons\Types\" />
   </ItemGroup>
 
 </Project>

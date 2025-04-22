@@ -10,21 +10,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
-using PokemonBattleSimulator.ViewModels;
 
 namespace PokemonBattleSimulator.Views
 {
     /// <summary>
-    /// Interaction logic for PokedexWindow.xaml
+    /// Interaction logic for PokedexView.xaml
     /// </summary>
-    public partial class PokedexWindow : Window
+    public partial class PokedexView : UserControl
     {
-        public PokedexWindow()
+        public PokedexView()
         {
             InitializeComponent();
-            PokedexViewModel viewModel = new PokedexViewModel();
-            this.DataContext = viewModel;
         }
     }
 }
