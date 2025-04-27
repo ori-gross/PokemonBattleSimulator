@@ -29,7 +29,7 @@ namespace PokemonBattleSimulator
             //var pokedexNav = new NavigateCommand(navigationStore, () => new PokedexViewModel());
 
             // Initialize the navigation store with the initial view model
-            _navigationStore.CurrentViewModel = new HomeViewModel(_navigationStore, CreatePokedexViewModel, CreateItemdexViewModel);
+            _navigationStore.CurrentViewModel = new HomeViewModel(_navigationStore, CreatePokedexViewModel, CreateAttackdexViewModel, CreateItemdexViewModel);
 
             //var homeVm = new HomeViewModel(pokedexNav, _navigationStore);
 
@@ -44,6 +44,11 @@ namespace PokemonBattleSimulator
         private PokedexViewModel CreatePokedexViewModel()
         {
             return new PokedexViewModel();
+        }
+
+        private AttackdexViewModel CreateAttackdexViewModel()
+        {
+            return new AttackdexViewModel();
         }
 
         private ItemdexViewModel CreateItemdexViewModel()

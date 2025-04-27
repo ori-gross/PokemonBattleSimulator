@@ -17,12 +17,14 @@
             <DataTemplate DataType="{x:Type vms:PokedexViewModel}">
                 <views:PokedexView/>
             </DataTemplate>
+            <DataTemplate DataType="{x:Type vms:AttackdexViewModel}">
+                <views:AttackdexView/>
+            </DataTemplate>
             <DataTemplate DataType="{x:Type vms:ItemdexViewModel}">
                 <views:ItemdexView/>
             </DataTemplate>
         </Grid.Resources>
 
         <ContentControl Content="{Binding CurrentViewModel}"/>
-
     </Grid>
 </Window>

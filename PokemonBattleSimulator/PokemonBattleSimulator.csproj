@@ -45,4 +45,8 @@
     <Folder Include="Resources\UI\Graphics\Icons\Types\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Resources\Data\PokemonMoves.json" />
+  </ItemGroup>
+
 </Project>

@@ -53,11 +53,12 @@ namespace PokemonBattleSimulator.ViewModels
         public ICommand OpenAboutWindowCommand { get; set; }
         public ICommand OpenPokedexWindowCommand { get; set; }
         public ICommand ShowPokedexCommand { get; }
+        public ICommand ShowAttackdexCommand { get; }
         public ICommand ShowItemdexCommand { get; }
 
         public ICommand ToggleMuteCommand { get; }
 
-        public HomeViewModel(NavigationStore navigationStore, Func<PokedexViewModel> createPokedexViewModel, Func<ItemdexViewModel> createItemdexViewModel)
+        public HomeViewModel(NavigationStore navigationStore, Func<PokedexViewModel> createPokedexViewModel, Func<AttackdexViewModel> createAttackdexViewModel, Func<ItemdexViewModel> createItemdexViewModel)
         {
             //CurrentViewModel = new HomeViewModel();
             OpenBattleWindowCommand = new RelayCommand(OpenBattleWindow);
@@ -65,7 +66,7 @@ namespace PokemonBattleSimulator.ViewModels
             OpenAboutWindowCommand = new RelayCommand(OpenAboutWindow);
             //OpenPokedexWindowCommand = new RelayCommand(OpenPokedexWindow);
             ShowPokedexCommand = new NavigateCommand(navigationStore, createPokedexViewModel);
-            //ShowPokedexCommand = new RelayCommand(_ => CurrentViewModel = new PokedexViewModel());
+            ShowAttackdexCommand = new NavigateCommand(navigationStore, createAttackdexViewModel);
             ShowItemdexCommand = new NavigateCommand(navigationStore, createItemdexViewModel);
 
             ToggleMuteCommand = new RelayCommand(_ => IsMuted = !IsMuted);

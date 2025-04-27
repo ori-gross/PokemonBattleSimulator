@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using PokemonBattleSimulator.Models.Entities;
 
@@ -11,21 +12,34 @@ namespace PokemonBattleSimulator.Services
 {
     public static class PokemonMovesService
     {
-        public static List<PokemonMove> LoadPokemonMoves(string jsonFilePath)
+        public static List<PokemonMove> LoadPokemonMoves(string relativeJsonPath)
         {
             try
             {
-                // Read all text from the JSON file.
-                string jsonString = File.ReadAllText(jsonFilePath);
+                string fullPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, relativeJsonPath);
 
-                // Deserialize JSON to a list of moves.
-                List<PokemonMove> moves = JsonSerializer.Deserialize<List<PokemonMove>>(jsonString);
+                if (!File.Exists(fullPath))
+                {
+                    Console.WriteLine($"[ERROR] File not found: {fullPath}");
+                    return new List<PokemonMove>();
+                }
 
-                return moves;
+                string json = File.ReadAllText(fullPath);
+                Console.WriteLine($"[DEBUG] JSON loaded: {json.Length} characters");
+
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true,
+                    Converters = { new JsonStringEnumConverter() }
+                };
+
+                var list = JsonSerializer.Deserialize<List<PokemonMove>>(json, options);
+                Console.WriteLine($"[DEBUG] Loaded {list.Count} Pokémon moves");
+                return list;
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error loading moves: {ex.Message}");
+                Console.WriteLine($"[EXCEPTION] Error loading Pokémon moves: {ex}");
                 return new List<PokemonMove>();
             }
         }

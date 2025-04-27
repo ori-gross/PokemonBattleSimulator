@@ -26,7 +26,7 @@
         <StackPanel Grid.Column="0" Background="DarkRed">
             <TextBlock Text="📚 Databases" FontWeight="Bold" FontSize="16" Margin="0 0 0 10"/>
             <Button Content="Pokédex" Background="Transparent" Command="{Binding ShowPokedexCommand}" Cursor="Hand"/>
-            <Button Content="Movedex" Background="Transparent" Command="" Cursor="Hand"/>
+            <Button Content="Attackdex" Background="Transparent" Command="{Binding ShowAttackdexCommand}" Cursor="Hand"/>
             <Button Content="Itemdex" Background="Transparent" Command="{Binding ShowItemdexCommand}" Cursor="Hand"/>
         </StackPanel>
 
