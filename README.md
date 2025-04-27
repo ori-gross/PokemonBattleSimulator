@@ -40,7 +40,7 @@ Built with C#, .NET, and XAML.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/PokemonBattleSimulator.git
+   git clone https://github.com/ori-gross/PokemonBattleSimulator.git
    cd PokemonBattleSimulator
 
 2. Open in Visual Studio 2022+ (or Rider) and build the solution.
@@ -56,7 +56,7 @@ Built with C#, .NET, and XAML.
 - [x] Build scraping tools for moves and species (Python + Pokémon DB)
 - [x] Set up MVVM architecture with ViewModels and services
 - [x] Implement background music with volume/mute controls
-- [ ] Create Pokédex, Movedex, and Itemdex browsing views
+- [x] Create Pokédex, Attackdex, and Itemdex browsing views
 - [ ] Implement team setup and trainer customization
 - [ ] Build turn-based battle simulation engine
 - [ ] Add support for stat changes, status conditions, type effectiveness, etc.
